@@ -1,0 +1,22 @@
+.wrapper {
+  margin: 30px;
+}
+
+.wrapper_btn {
+  display: flex;
+  gap: 20px;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.wrapper_stat {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.value {
+  margin: 0px;
+}
