@@ -1,4 +1,6 @@
 .notification {
   margin: 30px;
   width: 250px;
+  font-weight: bold;
+  color: red;
 }
