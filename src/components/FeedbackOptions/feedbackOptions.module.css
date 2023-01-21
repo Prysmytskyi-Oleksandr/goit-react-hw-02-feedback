@@ -1,0 +1,19 @@
+.list_btn {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding-left: 0px;
+  justify-content: space-around;
+}
+
+.btn {
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: rgb(26, 245, 26);
+}

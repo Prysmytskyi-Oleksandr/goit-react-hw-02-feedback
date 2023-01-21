@@ -1,0 +1,9 @@
+.wrapper_stat {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.value {
+  margin: 0px;
+}
